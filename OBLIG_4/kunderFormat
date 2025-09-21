@@ -1,0 +1,10 @@
+<int:sisteKundeNr>
+<int:kundeNr> <int:tlf>
+<string:Navn>
+<string:gateAddresse>
+<string:postAddresse>
+<string:Email>
+<string:boligType> <int:sone> <int:sone> <int:sone>
+...
+
+

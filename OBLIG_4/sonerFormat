@@ -1,0 +1,12 @@
+<sisteOppdragsNr>
+<int:soneNummer> <string:beskrivelse>
+<int:antallBoliger>
+<string:boligType>
+<int:boligNr> <int:dato/ÅÅÅÅMMDD> <int:byggår> <int:bruttoareal> <int:soverom> <int:pris>
+<string:saksbehandler>
+<string:eier>
+<string:gateAdresse>
+<string:postAdresse>
+<string:beskrivelse>
+<int:areal> <int:selveid>       // denne linjen kun dersom boligType = EneBolig
+...

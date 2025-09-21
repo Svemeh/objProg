@@ -1,0 +1,129 @@
+16
+1 Svært nærme NTNU
+4
+BOLIG
+1 20040121 2000 60 2 200000
+Jonas Jonastann
+Birge Birgeren
+nygata 1
+2811 Gjøvik
+fin plassering midt i byen, Leiligheten er i fjerde etasje som gir et fint overblikk over bylivet
+BOLIG
+2 19990512 1989 30 1 100000
+Daniel Danielson
+Ola Olsen
+Testveien 2
+1234 Gjøvik
+Standard bolig uten særpreg.
+ENEBOLIG
+3 20100101 2010 80 3 250000
+Saksbehandler3
+Eier3
+Eneboligveien 3
+3003 Gjøvik
+Moderne enebolig med hage.
+150 1
+ENEBOLIG
+4 20120101 2012 90 4 300000
+Saksbehandler4
+Eier4
+Eneboligveien 4
+4004 Gjøvik
+Koselig enebolig med stor hage.
+200 0
+2 God utsikt over byen!
+4
+BOLIG
+5 20110101 2011 70 2 180000
+Saksbehandler5
+Eier5
+Byutsiktveien 5
+5005 Gjøvik
+Bolig med flott utsikt.
+BOLIG
+6 20120202 2012 65 2 175000
+Saksbehandler6
+Eier6
+Utsiktsveien 6
+6006 Gjøvik
+Moderne bolig med panoramautsikt.
+ENEBOLIG
+7 20130303 2013 85 3 275000
+Saksbehandler7
+Eier7
+Enestueveien 7
+7007 Gjøvik
+Enebolig med god beliggenhet.
+160 1
+ENEBOLIG
+8 20140404 2014 95 4 320000
+Saksbehandler8
+Eier8
+Enestueveien 8
+8008 Gjøvik
+Moderne enebolig med solrik hage.
+180 0
+11 midt i byen
+4
+BOLIG
+9 20150505 2015 55 1 95000
+Saksbehandler9
+Eier9
+Sentrumsgata 9
+9010 Gjøvik
+Liten, men praktisk bolig i sentrum.
+BOLIG
+10 20160606 2016 75 3 210000
+Saksbehandler10
+Eier10
+Midtbyen 10
+1010 Gjøvik
+Moderne leilighet med god beliggenhet.
+ENEBOLIG
+11 20170707 2017 100 4 350000
+Saksbehandler11
+Eier11
+Eneboliggata 11
+1111 Gjøvik
+Romslig enebolig med utsikt.
+220 1
+ENEBOLIG
+12 20180808 2018 110 5 400000
+Saksbehandler12
+Eier12
+Eneboliggata 12
+1212 Gjøvik
+Nybygg enebolig med moderne fasiliteter.
+250 0
+12 en flott beskrivelse over bolig sonen
+4
+BOLIG
+13 20190909 2019 68 2 150000
+Saksbehandler13
+Eier13
+Boligveien 13
+1313 Gjøvik
+Komfortabel bolig i et attraktivt nabolag.
+BOLIG
+14 20201010 2020 72 3 160000
+Saksbehandler14
+Eier14
+Boligveien 14
+1414 Gjøvik
+Moderne bolig med åpne planløsninger.
+ENEBOLIG
+15 20211111 2021 88 3 270000
+Saksbehandler15
+Eier15
+Eneboliggata 15
+1515 Gjøvik
+Stilig enebolig med moderne design.
+190 1
+ENEBOLIG
+16 20221212 2022 92 4 290000
+Saksbehandler16
+Eier16
+Eneboliggata 16
+1616 Gjøvik
+Ny og romslig enebolig med moderne bekvemmeligheter.
+210 0
